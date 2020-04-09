@@ -33,10 +33,6 @@ function expressionCalculator(expr) {
         }
     }
 
-
-
-    // console.log(newArray);
-    console.log(newArray[0]);
     return newArray[0];
 
 }
